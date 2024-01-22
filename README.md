@@ -1,4 +1,5 @@
 # typeorm-relations
-Node.js junto ao TypeScript, incluindo o uso de banco de dados com o TypeORM, e relacionamentos ManyToMany.
 
-Essa é uma aplicação que permite a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce.
+Node.js with TypeScript, including the use of a database with TypeORM, and ManyToMany relationships.
+
+This is an application that allows the creation of customers, products and orders, where the customer can generate new purchase orders for certain products, like a small e-commerce.
